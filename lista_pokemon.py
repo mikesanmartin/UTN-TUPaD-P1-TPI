@@ -1,8 +1,9 @@
 # Trabajo practico integrador: Análisis de Algoritmos en Python 
-# Alumnos: Michel Emmanuel San Martin (mikeemmanuel91@gmail.com)
+# Alumnos: 
+# Michel Emmanuel San Martin (mikeemmanuel91@gmail.com)
+# Brian Santaran (brian.santaran@tupad.utn.edu.ar) 
 
 # A modo de ejemplo, se proporciona una lista de 150 elementos.
-
 lista = [
     "Bulbasaur", "Ivysaur", "Venusaur", "Charmander", "Charmeleon", "Charizard",
     "Squirtle", "Wartortle", "Blastoise", "Caterpie", "Metapod", "Butterfree",

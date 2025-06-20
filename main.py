@@ -1,3 +1,8 @@
+# Trabajo practico integrador: Análisis de Algoritmos en Python 
+# Alumnos: 
+# Michel Emmanuel San Martin (mikeemmanuel91@gmail.com)
+# Brian Santaran (brian.santaran@tupad.utn.edu.ar) 
+
 from lista_pokemon import lista
 from lista_pokemon_completa import lista_completa
 import algoritmos_tpi

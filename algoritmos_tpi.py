@@ -1,5 +1,7 @@
 # Trabajo practico integrador: Análisis de Algoritmos en Python 
-# Alumnos: Michel Emmanuel San Martin (mikeemmanuel91@gmail.com)
+# Alumnos: 
+# Michel Emmanuel San Martin (mikeemmanuel91@gmail.com)
+# Brian Santaran (brian.santaran@tupad.utn.edu.ar) 
 
 import time
 # Se definen las funciones con el modulo time para ayudarnos a contar en las pruebas empiricas.

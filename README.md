@@ -1,6 +1,8 @@
 # UTN-TUPaD-P1-TPI
 [Programacion_1] Trabajo Practico Integrador
-Alumno: Michel Emmanuel San Martin
+Alumnos: 
+Michel Emmanuel San Martin (mikeemmanuel91@gmail.com)
+Brian Santaran (brian.santaran@tupad.utn.edu.ar)
 
 Analisis de algoritmos
 
