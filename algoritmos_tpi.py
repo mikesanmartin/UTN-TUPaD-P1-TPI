@@ -31,12 +31,20 @@ def buscar_combinacion_bruto(lista, objetivo):
         return False
 
 # Algoritmo_2
-def dos_numeros_hashset(lista, objetivo):
-    vistos = set()
-    for num in lista:
-        complemento = objetivo - num
-        if complemento in vistos:
-            return (complemento, num)
-        vistos.add(num)
-    return None
+def busqueda_en_diccionario(lista, objetivo):
+    start = use_time()
+    print("Comienzo de Algoritmo_2")
 
+    objetivo = objetivo.upper()
+    poke_index = {nombre.upper():i + 1 for i, nombre in enumerate(lista)}
+
+    if objetivo in poke_index:
+        end = use_time()
+        time_dif(start, end)
+        print(f"El pokemon ingresado es el numero #{poke_index[objetivo]}")
+        return True
+    else:
+        end = use_time()
+        time_dif(start, end)
+        print("El nombre del pokemon ingresado no es valido o este no pertenece a la region de Kanto.")
+        return False
