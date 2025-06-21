@@ -86,6 +86,6 @@ El pokemon ingresado es el numero #25
 
 ## Enlace a Video Explicativo
 
-URL_YT:
+URL_YT: https://youtu.be/eOLtXKCpKnA
 
 ---
